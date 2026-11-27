@@ -1,5 +1,5 @@
 ## Esta es la idea de mi proyecto:
->   Proyecto: Cambio Climático
+>   Proyecto: EcoCambio
 
 ##  Integrantes
 >  Nombre del estudiante: Lucia M. Fols
